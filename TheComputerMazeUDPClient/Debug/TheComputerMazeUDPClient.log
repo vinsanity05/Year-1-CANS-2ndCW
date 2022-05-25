@@ -1,0 +1,4 @@
+﻿  TheComputerMazeUDPClient.cpp
+C:\Users\vince\OneDrive\CANS assingment 2\CANS assignment 2\Assignment 2 - TheComputerMazeUDPClient\TheComputerMazeUDPClient\TheComputerMazeUDPClient.cpp(917,21): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\vince\OneDrive\CANS assingment 2\CANS assignment 2\Assignment 2 - TheComputerMazeUDPClient\TheComputerMazeUDPClient\TheComputerMazeUDPClient.cpp(941,6): warning C4101: 'i': unreferenced local variable
+  TheComputerMazeUDPClient.vcxproj -> C:\Users\vince\OneDrive\CANS assingment 2\CANS assignment 2\Assignment 2 - TheComputerMazeUDPClient\Debug\TheComputerMazeUDPClient.exe
